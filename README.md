@@ -26,3 +26,4 @@ algorithm.
 12. Write a program to calculate sum of n numbers using thread library.
 13.Write a program to implement first-fit, best-fit and worst-fit
 allocation strategies
+
